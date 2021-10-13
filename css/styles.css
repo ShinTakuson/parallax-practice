@@ -1,0 +1,89 @@
+
+h1 {
+  font-family: "Ephesis", cursive;
+  font-weight: bolder;
+  opacity: 0.5;
+  color: white;
+  font-size: 15vw;
+}
+h2{
+  font-family: "Ephesis",cursive;
+  font-weight: bold;
+}
+h3{
+  font-family: "Ephesis",cursive;
+  font-weight:bold;
+  letter-spacing: 10px;
+
+}
+p { text-align: center;
+
+}
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+.row {
+  margin: 0;
+}
+.jumbotron {
+  height: 100vh;
+  margin: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#jumbo1 {
+  background-image: url(/img/pexels-arthouse-studio-4641265.jpg);
+}
+#jumbo2 {
+  background-image: url(/img/pexels-asad-photo-maldives-1591373.jpg);
+
+}
+#jumbo3 {
+  background-image: url(/img/pexels-jeremy-bishop-8241099.jpg);
+}
+#jumbo4 {
+  background-image: url(/img/pexels-daniel-frank-356807.jpg);
+}
+#jumbo5 {
+  background-image: url(/img/pexels-francesco-ungaro-1671324.jpg);
+ 
+}
+footer {
+  height: 20vh;
+  background-color: red;
+  color: white;
+}
+div>i {
+  background-color: brown;
+  padding: 10px;
+  border-radius: 50px;
+  font-size: 28px;
+  margin: 20px;
+}
+p>i{color: rgb(139, 137, 137);}
+i>a{color: white;}
+i>a:hover{color: white;}
+.jumbotronbox02{
+
+}
+.jumboBoxText{color: white;
+opacity: 1;}
+.jumboDate{
+
+}
+.jumboParagraph{
+
+}
+.container{
+  background-color: rgba(0,0, 0,0.2);
+  color: white;
+  padding: 20px 0;
+
+}
+nav{
+  text-shadow: 2px 2px gray;
+}
+
