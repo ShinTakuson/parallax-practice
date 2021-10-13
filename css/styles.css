@@ -34,20 +34,20 @@ p { text-align: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-.jumbo1 {
+#jumbo1 {
   background-image: url(/img/pexels-arthouse-studio-4641265.jpg);
 }
-.jumbo2 {
+#jumbo2 {
   background-image: url(/img/pexels-asad-photo-maldives-1591373.jpg);
 
 }
-.jumbo3 {
+#jumbo3 {
   background-image: url(/img/pexels-jeremy-bishop-8241099.jpg);
 }
-.jumbo4 {
+#jumbo4 {
   background-image: url(/img/pexels-daniel-frank-356807.jpg);
 }
-.jumbo5 {
+#jumbo5 {
   background-image: url(/img/pexels-francesco-ungaro-1671324.jpg);
  
 }
@@ -83,5 +83,7 @@ opacity: 1;}
   padding: 20px 0;
 
 }
-
+nav{
+  text-shadow: 2px 2px gray;
+}
 
